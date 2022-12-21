@@ -8,7 +8,8 @@ ReactWeather is a simple user-friendly weather application which uses weather ap
 
    ◉ Try searching for "New York".
 
-![App Screenshot](https://github.com/Abhishek-Kanti/React-Weather/blob/master/img2.jpg)
+![App Screenshot](https://user-images.githubusercontent.com/114488605/208924663-f8eb508b-dce6-46a9-910a-daab17b9d6f6.jpg)
 
    And here you go! Now you have all the Weather related information be it temperature, humidity, wind speed; even sunrise and sunset time.
+
 
